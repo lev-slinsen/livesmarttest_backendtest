@@ -1,7 +1,7 @@
-*Pre-requisites: `docker`, `docker-compose`*  
-*Make build before the initial launch: `docker-compose build`*  
-*Launch: `docker-compose up`*  
-*Run tests: `docker-compose run web pytest bloodtests/tests/test_bloodtests.py`*  
+*Pre-requisites:                        `docker`, `docker-compose`*  
+*Make build before the initial launch:  `docker-compose build`*  
+*Launch:                                `docker-compose up`*  
+*Run tests:                             `docker-compose run web pytest bloodtests/tests/test_bloodtests.py`*  
 
 # LiveSmart Backend Test
 
