@@ -1,4 +1,3 @@
-**Solution by [@lev_slinsen](https://github.com/lev-slinsen)**  
 *Pre-requisites: `docker`, `docker-compose`*  
 *Launch: `docker-compose up`*  
 *Test: `docker-compose run web pytest bloodtests/tests/test_bloodtests.py`*
